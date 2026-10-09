@@ -1,0 +1,13 @@
+{
+    "id": "JokerCrafting",
+    "name": "Joker Crafting",
+    "author": [
+        "NickTG"
+    ],
+    "description": "Every Joker is a Common. Pull a Joker down off the row and drop it on another of the same rarity to craft one of the next rarity: pick 1 of 3.",
+    "prefix": "ntgjc",
+    "main_file": "JokerCrafting.lua",
+    "priority": 0,
+    "badge_colour": "0047AB",
+    "version": "1.0.0"
+}
